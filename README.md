@@ -5,8 +5,8 @@
 - 📈 I'm also interested by machin learning methods
 - 🔍 I've mainly worked on:
 🦊 developing tools to disentgle species interactions from abudance data \\
-🌱 linking fuctional plant trait with interactions \\
-🦠 uncover potential viral emergence from host virus network \\
+🌱 linking fuctional plant trait with interactions //
+🦠 uncover potential viral emergence from host virus network //
 <!--
 **GhMathis/GhMathis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
