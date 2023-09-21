@@ -1,11 +1,11 @@
 ### Hi there 👋
 - I'm Mathis Gheno, MSc. student in Rennes university
 - 📖 I study ecolological modeling and statistics
-- 🧐 I'm interested in species interactions in ecosytems, how they can shape or impact the world around us and how cumpotationnal methods can help us to understand it better.
+- 🧐 I'm interested in species interactions in ecosytems, on how they can shape or impact the world around us and how computationnal methods can help us to understand it better.
 - 📈 I'm also interested by machin learning methods
 - 🔍 I've mainly worked on:
-- 🦊 developing tools to disentgle species interactions from abudance data
-- 🌱 linking fuctional plant trait with interactions
+- 🦊 developing tools to disentangled species interactions from abundance data
+- 🌱 linking functional plants traits with interactions
 - 🦠 uncover potential viral emergence from host virus network
 <!--
 **GhMathis/GhMathis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
